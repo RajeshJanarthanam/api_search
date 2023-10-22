@@ -9,7 +9,10 @@ class NYAPISearch:
         self.api_key = api_key
 
     def fetch_articles(self, input_file_path, output_dir):
-
+        """
+        Cette méthode recherche les articles associés à des mots clés via api search de NYT
+        En sortie on obtient un fichier json associé aux mots clés
+        """
         with open(input_file_path, 'r') as f:
             searchitem_list = json.load(f)
 

@@ -24,6 +24,12 @@ docker-compose start logstash
 
 git remote add origin https://github.com/RajeshJanarthanam/api_search
 
+git add .
+
+git commit -m "Mise à jour blabla"
+
+git push origin master
+
 
 
 

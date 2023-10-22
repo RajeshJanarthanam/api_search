@@ -28,6 +28,9 @@ def write_json_to_file(data, file_path):
         print(f"Erreur lors de l'écriture dans {file_path}: {str(e)}")
 
 def delete_files_in_directories(directories):
+    """
+    Supprime tous les fichiers d'un répertoire.
+    """
 
     for directory in directories:
         for filename in os.listdir(directory):
@@ -51,6 +54,9 @@ def copy_files_for_logstash(source_dir, target_dir):
         print(f'Copied {source_file} to {target_file}')
 
 def read_files_and_create_json(input_path, output_path):
+    """
+    Lie le contenu d'un fichier en entrée et crée des fichiers json en sortie
+    """
     books_search_list = []
     timeswire_search_list = []
 
@@ -74,6 +80,9 @@ def read_files_and_create_json(input_path, output_path):
         output_file.write('\n')  # Ajout d'un saut de ligne à la fin
 
 def document_directory(directory_path, indent=0):
+    """
+    Pour des besoins de documentation affiche l'arborescence d'un repertoire avec des identations
+    """
     # Obtenir le nom du répertoire actuel
     base_name = os.path.basename(directory_path)
 
