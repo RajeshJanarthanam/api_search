@@ -1,0 +1,433 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "Now that the big-screen version of Watchmen has been realized, the most eagerly awaited adaptation of a comic book is probably “Scott Pilgrim vs. the World.”",
+                "web_url": "https://artsbeat.blogs.nytimes.com/2009/03/13/graphic-books-best-seller-lists/",
+                "snippet": "Now that the big-screen version of Watchmen has been realized, the most eagerly awaited adaptation of a comic book is probably “Scott Pilgrim vs. the World.”",
+                "lead_paragraph": "Now that the big-screen version of Watchmen has been realized, the most eagerly awaited adaptation of a comic book is probably “Scott Pilgrim vs. the World.” The film is about a 20something slacker battling the evil exes of his current love, Ramona Flowers, and its cast includes Michael Cera as the titular hero, along with Mary Elizabeth Winstead, Chris Evans and Brandon Routh. The penultimate volume, Scott Pilgrim vs. the Universe, hits our paperback list at no. 10. Check out scottpilgrim.com  to sample pages.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Graphic Books Best Seller Lists: March 7",
+                    "kicker": "ArtsBeat",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2009-03-13T13:23:33+0000",
+                "document_type": "article",
+                "news_desk": "Culture",
+                "section_name": "Arts",
+                "byline": {
+                    "original": "By George Gene Gustines",
+                    "person": [
+                        {
+                            "firstname": "George",
+                            "middlename": "Gene",
+                            "lastname": "Gustines",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/7fb042b1-9e5c-54d8-9992-881a2f683a27",
+                "word_count": 1003,
+                "uri": "nyt://article/7fb042b1-9e5c-54d8-9992-881a2f683a27"
+            },
+            {
+                "abstract": "The latest volume of Buffy the Vampire Slayer is new to the list, as Naruto, the adventures of a ninja in training, continues to dominate the manga chart.",
+                "web_url": "https://artsbeat.blogs.nytimes.com/2009/03/20/graphic-books-best-seller-lists-march-14/",
+                "snippet": "The latest volume of Buffy the Vampire Slayer is new to the list, as Naruto, the adventures of a ninja in training, continues to dominate the manga chart.",
+                "lead_paragraph": "Naruto, the adventures of a ninja in training, continues to dominate the manga chart. This week, it has five of the 10 slots, including the top four. To see what the fuss is all about, check out this preview of the first chapter of volume 1. It includes a guide to reading the pages, in the traditional manga style of right to left, which takes a little getting used to.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Graphic Books Best Seller Lists: March 14",
+                    "kicker": "ArtsBeat",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2009-03-20T14:00:03+0000",
+                "document_type": "article",
+                "news_desk": "Culture",
+                "section_name": "Arts",
+                "byline": {
+                    "original": "By George Gene Gustines",
+                    "person": [
+                        {
+                            "firstname": "George",
+                            "middlename": "Gene",
+                            "lastname": "Gustines",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/c6cb4e08-c579-59b2-af94-e1ab909d2595",
+                "word_count": 1036,
+                "uri": "nyt://article/c6cb4e08-c579-59b2-af94-e1ab909d2595"
+            },
+            {
+                "abstract": "This week, the top two books on the hardcover list are based on video games.",
+                "web_url": "https://artsbeat.blogs.nytimes.com/2009/06/19/blogs/19artsbeat-graphic-19647.html",
+                "snippet": "This week, the top two books on the hardcover list are based on video games.",
+                "lead_paragraph": "Last week, the list was filled with graphic novels adapting or inspired by literary works. This week, the top two books on the hardcover list are based on video games. \"Halo: Uprising,\" published by Marvel, boasts the creative team of Brian Michael Bendis and Alex Maleev, who had a critically-acclaimed four-year run on \"Daredevil.\" Mr. Bendis and Mr. Maleev are both fans of the Halo video game series, and they bring this enthusiasm to their graphic novel adaptation, which bridges the storyline from the end of Halo 2 to the beginning of Halo 3. A free preview of the first issue can be found here.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Graphic Books Best Seller List: June 13",
+                    "kicker": "ArtsBeat",
+                    "content_kicker": null,
+                    "print_headline": "Graphic Books Best Seller List: June 13",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2009-06-19T14:00:36+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Blogs",
+                "byline": {
+                    "original": "By GEORGE GENE GUSTINES",
+                    "person": [
+                        {
+                            "firstname": "George",
+                            "middlename": "Gene",
+                            "lastname": "GUSTINES",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Web Log",
+                "_id": "nyt://article/65a977d4-f051-587a-a9d0-d05c0262f2fe",
+                "word_count": 1124,
+                "uri": "nyt://article/65a977d4-f051-587a-a9d0-d05c0262f2fe"
+            },
+            {
+                "abstract": "One of the better-received books for fledgling readers has been “Tiny Titans,” a young-ified version of the Teen Titans team staffed by Robin, Kid Flash and other superhero sidekicks, and which enters our paperback list at no. 8.",
+                "web_url": "https://artsbeat.blogs.nytimes.com/2009/04/03/graphic-books-best-seller-list-march-28/",
+                "snippet": "One of the better-received books for fledgling readers has been “Tiny Titans,” a young-ified version of the Teen Titans team staffed by Robin, Kid Flash and other superhero sidekicks, and which enters our paperback list at no. 8.",
+                "lead_paragraph": "One of the ongoing goals of the comic book industry — besides truth, justice, the American way and lots and lots of film adaptations — is to attract young readers. And among the better-received books for fledgling readers has been “Tiny Titans,” a young-ified version of the Teen Titans team staffed by Robin, Kid Flash and other superhero sidekicks, and which enters our paperback list at no. 8. “Tiny Titans is the best book out there – that doesn’t bog you down in continuity, has no serious side, and is great for all ages. This isn’t published frequently enough!!” wrote one fan on www.newsarama.com. Older comic book fans who want to see “tiny” versions of a lot of Titans and other DC heroes should check out the Web site of Art Baltazar, the book’s artist.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Graphic Books Best Seller List: March 28",
+                    "kicker": "ArtsBeat",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2009-04-03T14:00:32+0000",
+                "document_type": "article",
+                "news_desk": "Culture",
+                "section_name": "Arts",
+                "byline": {
+                    "original": "By George Gene Gustines",
+                    "person": [
+                        {
+                            "firstname": "George",
+                            "middlename": "Gene",
+                            "lastname": "Gustines",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/a846cf4a-885e-5843-b8f1-7730d912de94",
+                "word_count": 1046,
+                "uri": "nyt://article/a846cf4a-885e-5843-b8f1-7730d912de94"
+            },
+            {
+                "abstract": "This week, the top two books on the hardcover list are based on video games.",
+                "web_url": "https://artsbeat.blogs.nytimes.com/2009/06/19/graphic-books-best-seller-list-june-13/",
+                "snippet": "This week, the top two books on the hardcover list are based on video games.",
+                "lead_paragraph": "Last week, the list was filled with graphic novels adapting or inspired by literary works. This week, the top two books on the hardcover list are based on video games. “Halo: Uprising,” published by Marvel, boasts the creative team of Brian Michael Bendis and Alex Maleev, who had a critically-acclaimed four-year run on “Daredevil.” Mr. Bendis and Mr. Maleev are both fans of the Halo video game series, and they bring this enthusiasm to their graphic novel adaptation, which bridges the storyline from the end of Halo 2 to the beginning of Halo 3. A free preview of the first issue can be found here.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Graphic Books Best Seller List: June 13",
+                    "kicker": "ArtsBeat",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2009-06-19T14:00:36+0000",
+                "document_type": "article",
+                "news_desk": "Culture",
+                "section_name": "Arts",
+                "byline": {
+                    "original": "By George Gene Gustines",
+                    "person": [
+                        {
+                            "firstname": "George",
+                            "middlename": "Gene",
+                            "lastname": "Gustines",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/c0fbc6ee-3aed-583f-b547-13592ab79f82",
+                "word_count": 1101,
+                "uri": "nyt://article/c0fbc6ee-3aed-583f-b547-13592ab79f82"
+            },
+            {
+                "abstract": "The collected edition of \"Final Crisis,\" the latest event mini-series from DC Comics, tops the hardcover list this week.",
+                "web_url": "https://artsbeat.blogs.nytimes.com/2009/06/26/blogs/26artsbeat-graphic-20897.html",
+                "snippet": "The collected edition of \"Final Crisis,\" the latest event mini-series from DC Comics, tops the hardcover list this week.",
+                "lead_paragraph": "The collected edition of \"Final Crisis,\" the latest event mini-series from DC Comics, tops the hardcover list this week. The story, written by Grant Morrison, was presented as \"the day evil wins,\" even though we know, c'mon, the heroes are going to be victorious in the end. \"Final Crisis\" features the return of a long-dead hero, the death of another and a whole lot of parallel earths, where, say, Batman is a vampire; Superman's rocket landed in the Soviet Union; or Wonder Woman is a villain known as Superwoman. No one handles those endless possibilities better than Mr. Morrison, as he proves again in \"Final Crisis\" (particularly in the final issue in the collected edition) and in the two-part series \"Superman Beyond,\" which is wisely included in the hardcover. A peek at some pages from the comic \"Final Crisis\" is available here. And for a hint at what Mr. Morrison has planned next for the multiverse, click here.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Graphic Books Best Seller List: June 20",
+                    "kicker": "ArtsBeat",
+                    "content_kicker": null,
+                    "print_headline": "Graphic Books Best Seller List: June 20",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2009-06-26T13:59:51+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Blogs",
+                "byline": {
+                    "original": "By GEORGE GUSTINES",
+                    "person": [
+                        {
+                            "firstname": "George",
+                            "middlename": null,
+                            "lastname": "GUSTINES",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Web Log",
+                "_id": "nyt://article/3cb6ad3a-cd43-5af8-add5-7d4ed2297847",
+                "word_count": 1234,
+                "uri": "nyt://article/3cb6ad3a-cd43-5af8-add5-7d4ed2297847"
+            },
+            {
+                "abstract": "This week’s hardcover list is crammed with graphic novel adaptations of literary works. At the very top is “Storm Front,” the first in a series of graphic novels based on Jim Butcher’s Dresden Files.",
+                "web_url": "https://artsbeat.blogs.nytimes.com/2009/06/12/graphic-books-best-seller-list-june-6/",
+                "snippet": "This week’s hardcover list is crammed with graphic novel adaptations of literary works. At the very top is “Storm Front,” the first in a series of graphic novels based on Jim Butcher’s Dresden Files.",
+                "lead_paragraph": "This week’s hardcover list is crammed with graphic novel adaptations of literary works. At the very top of the list is “Storm Front,” the first in a series of graphic novels based on Jim Butcher’s Dresden Files books about Harry Dresden, a Chicago detective who’s also a wizard. In his introduction for the book, Mr. Butcher discusses the first comic he bought with his own money. The rest is history: he became a comic book fan and, he writes, he always pictured the Dresden character as a comic book hero. Now he is one.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Graphic Books Best Seller List: June 6",
+                    "kicker": "ArtsBeat",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2009-06-12T14:00:02+0000",
+                "document_type": "article",
+                "news_desk": "Culture",
+                "section_name": "Arts",
+                "byline": {
+                    "original": "By George Gene Gustines",
+                    "person": [
+                        {
+                            "firstname": "George",
+                            "middlename": "Gene",
+                            "lastname": "Gustines",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/41d8b7a7-d27e-5065-ae9c-298b7e58564f",
+                "word_count": 1168,
+                "uri": "nyt://article/41d8b7a7-d27e-5065-ae9c-298b7e58564f"
+            },
+            {
+                "abstract": "New on the paperback list is \"Empowered,\" a series whose creator describes as a \"sexy superhero comedy.\".",
+                "web_url": "https://artsbeat.blogs.nytimes.com/2009/07/03/blogs/03artsbeat-graphic-22595.html",
+                "snippet": "New on the paperback list is \"Empowered,\" a series whose creator describes as a \"sexy superhero comedy.\".",
+                "lead_paragraph": "The latest deluxe volume of Starman, the DC Comics series about Jack Knight, who inherits the role of his superhero father, arrives on the hardcover list at No. 2. This collection of stories includes a sequence in which Jack risks his life to save the villainous Solomon Grundy, a swamp creature that battled many of his father's compatriots in the Justice Society of America. The writer, James Robinson, really makes you feel for the monster.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Graphic Books Best Seller List: June 27",
+                    "kicker": "ArtsBeat",
+                    "content_kicker": null,
+                    "print_headline": "Graphic Books Best Seller List: June 27",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2009-07-03T14:00:58+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Blogs",
+                "byline": {
+                    "original": "By GEORGE GENE GUSTINES",
+                    "person": [
+                        {
+                            "firstname": "George",
+                            "middlename": "Gene",
+                            "lastname": "GUSTINES",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Web Log",
+                "_id": "nyt://article/e1b0718e-5a6e-5329-920c-41c1fd4b63e1",
+                "word_count": 1207,
+                "uri": "nyt://article/e1b0718e-5a6e-5329-920c-41c1fd4b63e1"
+            },
+            {
+                "abstract": "The collected edition of “Final Crisis,” the latest event mini-series from DC Comics, tops the hardcover list this week.",
+                "web_url": "https://artsbeat.blogs.nytimes.com/2009/06/26/graphic-books-best-seller-list-june-20/",
+                "snippet": "The collected edition of “Final Crisis,” the latest event mini-series from DC Comics, tops the hardcover list this week.",
+                "lead_paragraph": "The collected edition of “Final Crisis,” the latest event mini-series from DC Comics, tops the hardcover list this week. The story, written by Grant Morrison, was presented as “the day evil wins,” even though we know, c’mon, the heroes are going to be victorious in the end. “Final Crisis” features the return of a long-dead hero, the death of another and a whole lot of parallel earths, where, say, Batman is a vampire; Superman’s rocket landed in the Soviet Union; or Wonder Woman is a villain known as Superwoman. No one handles those endless possibilities better than Mr. Morrison, as he proves again in “Final Crisis” (particularly in the final issue in the collected edition) and in the two-part series “Superman Beyond,” which is wisely included in the hardcover. A peek at some pages from the comic “Final Crisis” is available here. And for a hint at what Mr. Morrison has planned next for the multiverse, click here.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Graphic Books Best Seller List: June 20",
+                    "kicker": "ArtsBeat",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2009-06-26T13:59:51+0000",
+                "document_type": "article",
+                "news_desk": "Culture",
+                "section_name": "Arts",
+                "byline": {
+                    "original": "By George Gustines",
+                    "person": [
+                        {
+                            "firstname": "George",
+                            "middlename": null,
+                            "lastname": "Gustines",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/b27d650f-cad0-5413-9332-08ac94787266",
+                "word_count": 1213,
+                "uri": "nyt://article/b27d650f-cad0-5413-9332-08ac94787266"
+            },
+            {
+                "abstract": "New on the paperback list is “Empowered,” a series whose creator describes as a “sexy superhero comedy.”",
+                "web_url": "https://artsbeat.blogs.nytimes.com/2009/07/03/graphic-books-best-seller-list-june-27/",
+                "snippet": "New on the paperback list is “Empowered,” a series whose creator describes as a “sexy superhero comedy.”",
+                "lead_paragraph": "The latest deluxe volume of Starman, the DC Comics series about Jack Knight, who inherits the role of his superhero father, arrives on the hardcover list at No. 2. This collection of stories includes a sequence in which Jack risks his life to save the villainous Solomon Grundy, a swamp creature that battled many of his father’s compatriots in the Justice Society of America. The writer, James Robinson, really makes you feel for the monster.",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Graphic Books Best Seller List: June 27",
+                    "kicker": "ArtsBeat",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2009-07-03T14:00:58+0000",
+                "document_type": "article",
+                "news_desk": "Culture",
+                "section_name": "Arts",
+                "byline": {
+                    "original": "By George Gene Gustines",
+                    "person": [
+                        {
+                            "firstname": "George",
+                            "middlename": "Gene",
+                            "lastname": "Gustines",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/f01e4c3c-8317-5385-bfee-830b0028da46",
+                "word_count": 1183,
+                "uri": "nyt://article/f01e4c3c-8317-5385-bfee-830b0028da46"
+            }
+        ],
+        "meta": {
+            "hits": 16,
+            "offset": 0,
+            "time": 28
+        }
+    }
+}

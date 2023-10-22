@@ -1,0 +1,430 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "Marries B Webb",
+                "web_url": "https://www.nytimes.com/1935/11/25/archives/daughters-wedding-surprises-s-w-webbs-miss-barbara-married-in.html",
+                "snippet": "Marries B Webb",
+                "lead_paragraph": "",
+                "print_section": "SOCIAL NEWS",
+                "print_page": "16",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "DAUGHTER'S WEDDING SURPRISES S. W. WEBBS; Miss Barbara Married in Armonk to William Johnstone Jr. of Great Neck.",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "DAUGHTER'S WEDDING SURPRISES S. W. WEBBS; Miss Barbara Married in Armonk to William Johnstone Jr. of Great Neck.",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "persons",
+                        "value": "JOHNSTONE, WILLIAM WILSON JR",
+                        "rank": 1,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "1935-11-25T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/3ec17de5-85e5-53d0-a19b-7e118087773c",
+                "word_count": 0,
+                "uri": "nyt://article/3ec17de5-85e5-53d0-a19b-7e118087773c"
+            },
+            {
+                "abstract": "",
+                "web_url": "https://www.nytimes.com/1961/06/25/archives/hurd-johnstone.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_page": "66",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Hurd -- Johnstone",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "Hurd -- Johnstone",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1961-06-25T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": "Special to The New York Times",
+                    "person": [
+                        {
+                            "firstname": null,
+                            "middlename": null,
+                            "lastname": null,
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/fa58c9a3-a547-58ef-a597-8522dd9d3c39",
+                "word_count": 0,
+                "uri": "nyt://article/fa58c9a3-a547-58ef-a597-8522dd9d3c39"
+            },
+            {
+                "abstract": "",
+                "web_url": "https://www.nytimes.com/1956/06/03/archives/miss-patton-wed-in-jersey-church-wears-an-organdy-gown-at-marriage.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_page": "92",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "MISS PATTON WED IN JERSEY CHURCH; Wears an Organdy Gown at Marriage in Westfield to William H. Johnstone",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "MISS PATTON WED IN JERSEY CHURCH; Wears an Organdy Gown at Marriage in Westfield to William H. Johnstone",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1956-06-03T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": "Special to The New York Times",
+                    "person": [
+                        {
+                            "firstname": null,
+                            "middlename": null,
+                            "lastname": null,
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/8ef8dcc0-d315-5443-bade-0f65276bda35",
+                "word_count": 0,
+                "uri": "nyt://article/8ef8dcc0-d315-5443-bade-0f65276bda35"
+            },
+            {
+                "abstract": "Johnstone, Henry W",
+                "web_url": "https://www.nytimes.com/1971/04/07/archives/henry-w-johnstone-exaide-with-merck-co-dead-at-78.html",
+                "snippet": "Johnstone, Henry W",
+                "lead_paragraph": "CHESTERTOWN, Md., April 6 —Henry W. Johnstone, retired senior vice president and director of Merck & Co., manufacturing chemists in Rahway, N. J., died yesterday in Kent and Queen Anne Hospital, of which he was former chairman, after a sudden illness. He was 78 years old.",
+                "print_page": "46",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Henry W. Johnstone, Ex‐Aide With Merck & co., Dead at 78",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Henry W. Johnstone, Ex‐Aide With Merck & co., Dead at 78",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "persons",
+                        "value": "JOHNSTONE, HENRY W",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "DEATHS",
+                        "rank": 2,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "1971-04-07T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/bb791495-13df-50cc-b988-0055b3e9d7ba",
+                "word_count": 214,
+                "uri": "nyt://article/bb791495-13df-50cc-b988-0055b3e9d7ba"
+            },
+            {
+                "abstract": "LEAD: Mildred Johnstone, a patron of the arts who created abstract canvas needlepoint tapestries that toured colleges and art galleries, died Thursday at her home in Manhattan after a brief illness. She was 88 years old.",
+                "web_url": "https://www.nytimes.com/1988/11/15/obituaries/mildred-johnstone-88-maker-of-tapestries.html",
+                "snippet": "",
+                "lead_paragraph": "Mildred Johnstone, a patron of the arts who created abstract canvas needlepoint tapestries that toured colleges and art galleries, died Thursday at her home in Manhattan after a brief illness. She was 88 years old.",
+                "print_section": "D",
+                "print_page": "26",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Mildred Johnstone, 88, Maker of Tapestries",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Mildred Johnstone, 88, Maker of Tapestries",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "persons",
+                        "value": "JOHNSTONE, MILDRED",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "DEATHS",
+                        "rank": 2,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "1988-11-15T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "Obituary",
+                "section_name": "Obituaries",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "Obituary",
+                "_id": "nyt://article/6f6f8107-cf31-5eff-bf41-4894ef557202",
+                "word_count": 204,
+                "uri": "nyt://article/6f6f8107-cf31-5eff-bf41-4894ef557202"
+            },
+            {
+                "abstract": "Mrs Johnstone weds W J Carlson",
+                "web_url": "https://www.nytimes.com/1971/12/04/archives/mrs-johnstone-editor-married.html",
+                "snippet": "Mrs Johnstone weds W J Carlson",
+                "lead_paragraph": "ELKTON, Md., Dec. 3—Mrs. Rita Olcott Johnstone, associate editor of Advertising News of New York was married in the County Courthouse here this afternoon to Walter J. Carlson, partner in Whipple & Carlson Associates, a New York public relations firm. E. Day Moore, deputy clerk, performed the ceremony.",
+                "print_page": "36",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Mrs. Johnstone, Editor, Married",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Mrs. Johnstone, Editor, Married",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "persons",
+                        "value": "CARLSON, WALTER J.",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "JOHNSTONE, RITA OLCOTT",
+                        "rank": 2,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "1971-12-04T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/aaa9fb80-df32-5174-89ed-a7f4079d3016",
+                "word_count": 202,
+                "uri": "nyt://article/aaa9fb80-df32-5174-89ed-a7f4079d3016"
+            },
+            {
+                "abstract": "Alice Louise Grau of New York, daughter of Fritz H. Grau of Hillsborough, Calif., and Katherine Mackay O'Brien Grau of Foster City, Calif., was married yesterday afternoon to Alexander Johnstone Smith. He is the son cf Mr. and Mrs. William Washington Smith Jr. of Mill Neck L. I.",
+                "web_url": "https://www.nytimes.com/1976/05/23/archives/alice-louise-grau-is-married-to-alexander-johnstone-smith.html",
+                "snippet": "",
+                "lead_paragraph": "Alice Louise Grau of New York, daughter of Fritz H. Grau of Hillsborough, Calif., and Katherine Mackay O'Brien Grau of Foster City, Calif., was married yesterday afternoon to Alexander Johnstone Smith. He is the son cf Mr. and Mrs. William Washington Smith Jr. of Mill Neck L. I.",
+                "print_section": "FS",
+                "print_page": "66",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Alice Louise Grau Is Married To Alexander Johnstone Smith",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Alice Louise Grau Is Married To Alexander Johnstone Smith",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1976-05-23T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/cfe832d5-6b30-574e-a067-326c264cd5f0",
+                "word_count": 315,
+                "uri": "nyt://article/cfe832d5-6b30-574e-a067-326c264cd5f0"
+            },
+            {
+                "abstract": "Johnstone, Wm W Jr; daughter",
+                "web_url": "https://www.nytimes.com/1939/01/25/archives/child-for-ww-johnstones-jr.html",
+                "snippet": "Johnstone, Wm W Jr; daughter",
+                "lead_paragraph": "",
+                "print_section": "Society",
+                "print_page": "24",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Child for W.W. Johnstones Jr.",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Child for W.W. Johnstones Jr.",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "persons",
+                        "value": "JOHNSTONE, WM W JR",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "BIRTHS",
+                        "rank": 2,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "1939-01-25T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/c44c89a9-82c4-5c96-a95c-0494c04c9971",
+                "word_count": 0,
+                "uri": "nyt://article/c44c89a9-82c4-5c96-a95c-0494c04c9971"
+            },
+            {
+                "abstract": "BOCA RATON, Fla., Feb. 14 (AP)--Bob Cochran, St. Louis amateur, and his partner, Mrs. Ann Casey Johnstone of Mason City, Iowa, scored the only upset of the quarter-final round of the national mixed foursomes golf tournament today.  ",
+                "web_url": "https://www.nytimes.com/1957/02/15/archives/cochrans-team-wins-match-1-up-he-and-mrs-johnstone-beat-goodwin-and.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_section": "S",
+                "print_page": "30",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "COCHRAN'S TEAM WINS MATCH, 1 UP; He and Mrs. Johnstone Beat Goodwin and Miss Romack in Mixed Foursomes",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "COCHRAN'S TEAM WINS MATCH, 1 UP; He and Mrs. Johnstone Beat Goodwin and Miss Romack in Mixed Foursomes ",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1957-02-15T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/5db8c430-b425-5c4b-aa52-7f5b5db9a206",
+                "word_count": 0,
+                "uri": "nyt://article/5db8c430-b425-5c4b-aa52-7f5b5db9a206"
+            },
+            {
+                "abstract": "",
+                "web_url": "https://www.nytimes.com/1946/11/14/archives/miss-johnstones-plans-she-will-be-wed-in-westfield-on-nov-23-to.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_page": "36",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "MISS JOHNSTONE'S PLANS; She Will Be Wed in Westfield on Nov. 23 to George Ranzau",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "MISS JOHNSTONE'S PLANS; She Will Be Wed in Westfield on Nov. 23 to George Ranzau",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1946-11-14T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": "Special to THE NEW YORK TIMES",
+                    "person": [
+                        {
+                            "firstname": null,
+                            "middlename": null,
+                            "lastname": null,
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/9fd796a4-2199-5566-bc5b-d3de2d95b095",
+                "word_count": 0,
+                "uri": "nyt://article/9fd796a4-2199-5566-bc5b-d3de2d95b095"
+            }
+        ],
+        "meta": {
+            "hits": 1916,
+            "offset": 0,
+            "time": 62
+        }
+    }
+}

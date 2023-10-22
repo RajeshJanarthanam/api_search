@@ -1,0 +1,396 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "Mrs. Darlington Sands of Mexico City has announced the engagement of her daughter, Miss Teresa Sands, to Robert Haigh Leonard, son of Mrs. Ruth Marsden Leonard of West Woodstock, Vt., and Dr. Richard Lewis Leonard of Greenfield, Mass.  ",
+                "web_url": "https://www.nytimes.com/1966/11/02/archives/sands-leonard.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_page": "41",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Sands Leonard",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "Sands Leonard",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1966-11-02T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/f0bc8743-b28e-5db6-800c-c71fe07c74f9",
+                "word_count": 0,
+                "uri": "nyt://article/f0bc8743-b28e-5db6-800c-c71fe07c74f9"
+            },
+            {
+                "abstract": "WASHINGTON, Aug. 26 (AP)--The Interior Department ended a 15-year moratorium on Federal leasing of tar sands in Utah today and began preparing to offer limited leases for experimental development of the oil resource.  ",
+                "web_url": "https://www.nytimes.com/1980/08/27/archives/us-will-lease-utah-tar-sands.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_section": "B",
+                "print_page": "11",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "U.S. Will Lease Utah Tar Sands",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "U.S. Will Lease Utah Tar Sands",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1980-08-27T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/b3662dcd-e1cb-5f4e-be9a-1ffa488b797b",
+                "word_count": 0,
+                "uri": "nyt://article/b3662dcd-e1cb-5f4e-be9a-1ffa488b797b"
+            },
+            {
+                "abstract": "PHOENIX, Ariz., May 1 Mr. and Mrs. Waldo M. Sands have announced the engagement of their daughter, Miss Linda Ann Sands, to Speight Jenkins Jr., son of Dr. and Mrs. Jenkins of Dallas. The wedding is planned for early fall.  ",
+                "web_url": "https://www.nytimes.com/1966/05/02/archives/sands-jenkins.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_page": "43",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Sands Jenkins",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "Sands Jenkins",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1966-05-02T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/8a3ae46e-2b20-5078-878c-923b7e827dba",
+                "word_count": 0,
+                "uri": "nyt://article/8a3ae46e-2b20-5078-878c-923b7e827dba"
+            },
+            {
+                "abstract": "CALGARY, Alberta, June 1 Canada's state-owned oil corporation and private investors plan to build the fourth commercial oil sands production facility in northern Alberta.  ",
+                "web_url": "https://www.nytimes.com/1980/06/02/archives/oil-sands-plant-planned-in-alberta.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_section": "B",
+                "print_page": "2",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Oil Sands Plant Planned in Alberta",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "Oil Sands Plant Planned in Alberta",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1980-06-02T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": "Special to The New York Times",
+                    "person": [
+                        {
+                            "firstname": null,
+                            "middlename": null,
+                            "lastname": null,
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/7e700042-c621-541c-844f-f4fa4d242565",
+                "word_count": 0,
+                "uri": "nyt://article/7e700042-c621-541c-844f-f4fa4d242565"
+            },
+            {
+                "abstract": "Two and a half cheers for the Federal Energy Regulatory Commission, which administers natural gas price controls. It has decided to increase the financial incentive for recovering gas trapped in sandy rock formations. Our only qualm is that even the new policy does not go far enough to encourage the development of this major source of clean domestic fuel.  ",
+                "web_url": "https://www.nytimes.com/1980/08/18/archives/a-looser-rein-for-tight-sands.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_section": "A",
+                "print_page": "22",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "A Looser Rein for Tight Sands",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "A Looser Rein for Tight Sands",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1980-08-18T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/e4bb39a4-0af3-584a-b871-c29bbc8e5d02",
+                "word_count": 0,
+                "uri": "nyt://article/e4bb39a4-0af3-584a-b871-c29bbc8e5d02"
+            },
+            {
+                "abstract": "EDMONTON, Alberta, Oct. 2 (AP) Canada's federal Energy Minister, Marc Lalonde, has raised the federal offer for production from new oil-sands plants, an official of the Alberta government said today.  ",
+                "web_url": "https://www.nytimes.com/1980/10/03/archives/canada-increases-offer-on-oil-sands.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_section": "B",
+                "print_page": "3",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Canada Increases Offer on Oil Sands",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "Canada Increases Offer on Oil Sands",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1980-10-03T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/6e2d5713-6871-5c01-9625-7ac6556d4c19",
+                "word_count": 0,
+                "uri": "nyt://article/6e2d5713-6871-5c01-9625-7ac6556d4c19"
+            },
+            {
+                "abstract": "In the chapel of St. Bartholomew's Episcopal Church in Manhattan yesterday afternoon, Alison Harper Browning, daughter of Mr. and Mrs. John Owens Browning of Westfield, N.J., became ...  ",
+                "web_url": "https://www.nytimes.com/1980/03/16/archives/td-sands-weds-alison-browning.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_page": "64",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "T.D. Sands Weds Alison Browning",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "T.D. Sands Weds Alison Browning",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1980-03-16T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/354c58e6-95e7-51c5-b114-db12c93c92ee",
+                "word_count": 0,
+                "uri": "nyt://article/354c58e6-95e7-51c5-b114-db12c93c92ee"
+            },
+            {
+                "abstract": "",
+                "web_url": "https://www.nytimes.com/1968/10/13/archives/priscilla-sands-engaged.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_page": "99",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Priscilla Sands Engaged",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "Priscilla Sands Engaged",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1968-10-13T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": "Special to The New York Times",
+                    "person": [
+                        {
+                            "firstname": null,
+                            "middlename": null,
+                            "lastname": null,
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/ab1dd428-792c-5807-9c72-871a7fbdd319",
+                "word_count": 0,
+                "uri": "nyt://article/ab1dd428-792c-5807-9c72-871a7fbdd319"
+            },
+            {
+                "abstract": "Golden Sands (Zlatini Pjasaci), Bulgaria",
+                "web_url": "https://www.nytimes.com/1968/01/14/archives/bulgarias-golden-sands.html",
+                "snippet": "Golden Sands (Zlatini Pjasaci), Bulgaria",
+                "lead_paragraph": "",
+                "print_section": "XX",
+                "print_page": "31",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Bulgaria's Golden Sands",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Bulgaria's Golden Sands",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Travel and Vacations",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "DESCRIPTIONS AND ATTRACTIONS",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Travel and Vacations",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "DESCRIPTIONS AND ATTRACTIONS",
+                        "rank": 4,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "1968-01-14T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": "By Sy Pearlman",
+                    "person": [
+                        {
+                            "firstname": "Sy",
+                            "middlename": null,
+                            "lastname": "Pearlman",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/dca0c305-c5a7-5282-89d8-89bf0cc643af",
+                "word_count": 0,
+                "uri": "nyt://article/dca0c305-c5a7-5282-89d8-89bf0cc643af"
+            },
+            {
+                "abstract": "",
+                "web_url": "https://www.nytimes.com/1963/05/26/archives/roberta-sands-married.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_page": "88",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Roberta Sands Married",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "Roberta Sands Married",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1963-05-26T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/f282ea71-d970-5cb7-a679-a02d9e92ffc5",
+                "word_count": 0,
+                "uri": "nyt://article/f282ea71-d970-5cb7-a679-a02d9e92ffc5"
+            }
+        ],
+        "meta": {
+            "hits": 39821,
+            "offset": 0,
+            "time": 37
+        }
+    }
+}

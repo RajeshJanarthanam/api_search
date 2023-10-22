@@ -1,0 +1,29 @@
+cd DE_NY_NEWS/
+source dev-env/bin/activate
+python main.py
+
+
+
+
+
+docker-compose up -d
+
+docker ps
+
+docker-compose down
+
+docker restart logstash-container
+
+docker logs logstash --tail 10
+
+docker logs -f logstash
+
+docker-compose stop logstash
+
+docker-compose start logstash
+
+git remote add origin https://github.com/RajeshJanarthanam/api_search
+
+
+
+

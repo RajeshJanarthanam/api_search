@@ -1,0 +1,716 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "FAIRFIELD, Conn., June 12 -- Henry Carr, an enigmatic athlete whose earlier feats as an Olympic sprinter exceeded his football achievements, was traded by the New York Giants to the Baltimore Colts today in exchange for Barry Brown, a linebacker.  ",
+                "web_url": "https://www.nytimes.com/1968/06/13/archives/carr-traded-to-colts-by-giants-for-barry-brown-linebacker.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_page": "61",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Carr Traded to Colts by Giants For Barry Brown, Linebacker",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "Carr Traded to Colts by Giants For Barry Brown, Linebacker",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1968-06-13T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": "By William N. Wallace",
+                    "person": [
+                        {
+                            "firstname": "William",
+                            "middlename": "N.",
+                            "lastname": "Wallace",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/96a6b74a-d79c-50ed-8939-f2723c566cec",
+                "word_count": 0,
+                "uri": "nyt://article/96a6b74a-d79c-50ed-8939-f2723c566cec"
+            },
+            {
+                "abstract": "",
+                "web_url": "https://www.nytimes.com/1951/09/02/archives/joan-p-carr-wed-in-princeton.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_page": "47",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Joan P. Carr Wed in Princeton",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "Joan P. Carr Wed in Princeton",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1951-09-02T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": "Special to THE NEW YORK TIMES",
+                    "person": [
+                        {
+                            "firstname": null,
+                            "middlename": null,
+                            "lastname": null,
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/fbe59c20-8230-517a-89f5-41271e75fd30",
+                "word_count": 0,
+                "uri": "nyt://article/fbe59c20-8230-517a-89f5-41271e75fd30"
+            },
+            {
+                "abstract": "",
+                "web_url": "https://www.nytimes.com/1968/10/13/archives/carr-sets-marks-as-post-prevails-his-passes-help-team-to-down.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_section": "SPORTSS",
+                "print_page": "9",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "CARR SETS MARKS AS POST PREVAILS; His Passes Help Team to Down Cortland, 37-21",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "CARR SETS MARKS AS POST PREVAILS; His Passes Help Team to Down Cortland, 37-21",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1968-10-13T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": "Special to The New York Times",
+                    "person": [
+                        {
+                            "firstname": null,
+                            "middlename": null,
+                            "lastname": null,
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/759fafe3-e4b2-508e-8628-da7b48fc5825",
+                "word_count": 0,
+                "uri": "nyt://article/759fafe3-e4b2-508e-8628-da7b48fc5825"
+            },
+            {
+                "abstract": "BROOKVILLE, L.I., Nov. 28 -- Hofstra has been playing C. W. Post for only 11 years, and their rivalry has not exactly taken on the capital letter status of \"The Game,\" but they have developed respective roles for their \"traditional\" Thanksgiving morning game.  ",
+                "web_url": "https://www.nytimes.com/1968/11/29/archives/two-hofstra-safeties-down-post-revamped-defense-halts-carr-leads-to.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_page": "63",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Two Hofstra Safeties Down Post; Revamped Defense Halts Carr, Leads to 11-7 Victory ",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "Two Hofstra Safeties Down Post; Revamped Defense Halts Carr, Leads to 11-7 Victory ",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1968-11-29T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": "By George Vecseyspecial To the New York Times",
+                    "person": [
+                        {
+                            "firstname": "George",
+                            "middlename": "Vecseyspecial",
+                            "lastname": "To",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/ad93f51f-5119-54fe-a9de-e9d2b41fd936",
+                "word_count": 0,
+                "uri": "nyt://article/ad93f51f-5119-54fe-a9de-e9d2b41fd936"
+            },
+            {
+                "abstract": "  Three more prominent underclassmen -- SCOTTY THURMAN of Arkansas, RODRICK RHODES of Kentucky and CHRIS CARR of Southern Illinois -- decided yesterday to declare for the National Basketball Association draft.   The possibility that any collective bargaining agreement reached between the N.B.A. and its players might include a salary cap for rookies has spurred a number of college stars to announce they were coming out. Players have until May 15 to announce for the draft, which is scheduled for June 18 in Toronto. Last year, 20 underclassmen declared and 12 were selected.",
+                "web_url": "https://www.nytimes.com/1995/04/19/sports/sports-people-basketball-thurman-rhodes-and-carr-to-enter-draft.html",
+                "snippet": "",
+                "lead_paragraph": "Three more prominent underclassmen -- SCOTTY THURMAN of Arkansas, RODRICK RHODES of Kentucky and CHRIS CARR of Southern Illinois -- decided yesterday to declare for the National Basketball Association draft.",
+                "print_section": "B",
+                "print_page": "14",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Thurman, Rhodes and Carr to Enter Draft",
+                    "kicker": "SPORTS PEOPLE: BASKETBALL",
+                    "content_kicker": null,
+                    "print_headline": "SPORTS PEOPLE: BASKETBALL; Thurman, Rhodes and Carr to Enter Draft",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "organizations",
+                        "value": "University of Arkansas",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Southern Illinois University",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "University of Kentucky",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Carr, Chris",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "THURMAN, SCOTTY",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Rhodes, Rodrick",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Draft and Recruitment (Sports)",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Wages and Salaries",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "SALARY CAPS",
+                        "rank": 9,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Basketball",
+                        "rank": 10,
+                        "major": "N"
+                    },
+                    {
+                        "name": "creative_works",
+                        "value": "SPORTS PEOPLE (TIMES COLUMN)",
+                        "rank": 11,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "1995-04-19T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "Sports Desk",
+                "section_name": "Sports",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/08e15aff-a9cc-5cbc-85f4-727bb26c4bcd",
+                "word_count": 300,
+                "uri": "nyt://article/08e15aff-a9cc-5cbc-85f4-727bb26c4bcd"
+            },
+            {
+                "abstract": "Lloyd Carr announced Monday that he is retiring as  the University of Michigan football coach, putting L.S.U.’s Les Miles, a possible successor to Carr, in a difficult spot.",
+                "web_url": "https://www.nytimes.com/2007/11/20/sports/ncaafootball/20michigan.html",
+                "snippet": "Lloyd Carr announced Monday that he is retiring as  the University of Michigan football coach, putting L.S.U.’s Les Miles, a possible successor to Carr, in a difficult spot.",
+                "lead_paragraph": "ANN ARBOR, Mich., Nov. 19 — Lloyd Carr announced Monday that he was retiring as Michigan’s football coach, a move that opens one of the premier jobs in college football and ends the career of one of the game’s top coaches. ",
+                "print_section": "D",
+                "print_page": "1",
+                "source": "The New York Times",
+                "multimedia": [
+                    {
+                        "rank": 0,
+                        "subtype": "xlarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2007/11/19/sports/ncaafootball/carr.600.jpg",
+                        "height": 280,
+                        "width": 600,
+                        "legacy": {
+                            "xlarge": "images/2007/11/19/sports/ncaafootball/carr.600.jpg",
+                            "xlargewidth": 600,
+                            "xlargeheight": 280
+                        },
+                        "subType": "xlarge",
+                        "crop_name": "articleLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "popup",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2007/11/19/sports/ncaafootball/carr.600.jpg",
+                        "height": 280,
+                        "width": 600,
+                        "legacy": {},
+                        "subType": "popup",
+                        "crop_name": "popup"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "sfSpan",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2007/11/19/sports/ncaafootball/carr.395.jpg",
+                        "height": 200,
+                        "width": 395,
+                        "legacy": {},
+                        "subType": "sfSpan",
+                        "crop_name": "sfSpan"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "thumbnail",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2007/11/19/sports/ncaafootball/carr.75.jpg",
+                        "height": 75,
+                        "width": 75,
+                        "legacy": {
+                            "thumbnail": "images/2007/11/19/sports/ncaafootball/carr.75.jpg",
+                            "thumbnailwidth": 75,
+                            "thumbnailheight": 75
+                        },
+                        "subType": "thumbnail",
+                        "crop_name": "thumbStandard"
+                    }
+                ],
+                "headline": {
+                    "main": "As Carr Reflects, Michigan Starts to Move On",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "As Carr Reflects, Michigan Starts to Move On",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "College Athletics",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Carr, Lloyd",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Football",
+                        "rank": 3,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2007-11-20T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "Sports",
+                "section_name": "Sports",
+                "subsection_name": "College Football",
+                "byline": {
+                    "original": "By Pete Thamel",
+                    "person": [
+                        {
+                            "firstname": "Pete",
+                            "middlename": null,
+                            "lastname": "Thamel",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/c2d7e6e3-52ba-56a8-bd18-17848dd1e8c0",
+                "word_count": 1102,
+                "uri": "nyt://article/c2d7e6e3-52ba-56a8-bd18-17848dd1e8c0"
+            },
+            {
+                "abstract": "Article discusses success of New Jersey Nets basketball player Chris Carr since being acquired from Minnesota Timberwolves; photo (M)",
+                "web_url": "https://www.nytimes.com/1999/03/24/sports/pro-basketball-carr-a-throw-in-in-marbury-trade-finds-niche-on-nets.html",
+                "snippet": "Article discusses success of New Jersey Nets basketball player Chris Carr since being acquired from Minnesota Timberwolves; photo (M)",
+                "lead_paragraph": "It has become a ritual after Nets practice: Chris Carr pops jump shot after jump shot off a running dribble while the assistant coach, Jim Lynam, stresses the importance of Carr's creating for himself in the half-court-oriented Eastern Conference.",
+                "print_section": "D",
+                "print_page": "4",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Carr, a Throw-In in Marbury Trade, Finds Niche on Nets",
+                    "kicker": "PRO BASKETBALL",
+                    "content_kicker": null,
+                    "print_headline": "PRO BASKETBALL; Carr, a Throw-In in Marbury Trade, Finds Niche on Nets",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "organizations",
+                        "value": "New Jersey Nets",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Minnesota Timberwolves",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Carr, Chris",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Trades (Sports)",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Basketball",
+                        "rank": 5,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "1999-03-24T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "Sports Desk",
+                "section_name": "Sports",
+                "byline": {
+                    "original": "By Ron Dicker",
+                    "person": [
+                        {
+                            "firstname": "Ron",
+                            "middlename": null,
+                            "lastname": "Dicker",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/3bd500d0-b7b6-59a3-a71d-2e49e97776fc",
+                "word_count": 513,
+                "uri": "nyt://article/3bd500d0-b7b6-59a3-a71d-2e49e97776fc"
+            },
+            {
+                "abstract": "The timing of Lloyd Carr’s retirement announcement hints that he does not favor Louisiana State Coach Les Miles as his successor.",
+                "web_url": "https://www.nytimes.com/2007/11/19/sports/ncaafootball/19colleges.html",
+                "snippet": "The timing of Lloyd Carr’s retirement announcement hints that he does not favor Louisiana State Coach Les Miles as his successor.",
+                "lead_paragraph": "ANN ARBOR, Mich., Nov. 18  In the chilly parking lot outside Schembechler Hall on Sunday night, reporters hovered around Lloyd Carr’s silver Lexus sport utility vehicle. ",
+                "print_section": "D",
+                "print_page": "1",
+                "source": "The New York Times",
+                "multimedia": [
+                    {
+                        "rank": 0,
+                        "subtype": "xlarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2007/11/19/sports/19college.xlarge1.jpg",
+                        "height": 350,
+                        "width": 600,
+                        "legacy": {
+                            "xlarge": "images/2007/11/19/sports/19college.xlarge1.jpg",
+                            "xlargewidth": 600,
+                            "xlargeheight": 350
+                        },
+                        "subType": "xlarge",
+                        "crop_name": "articleLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "popup",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2007/11/19/sports/19college.xlarge1.jpg",
+                        "height": 350,
+                        "width": 600,
+                        "legacy": {},
+                        "subType": "popup",
+                        "crop_name": "popup"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "articleInline",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2007/11/19/sports/michigan.190.jpg",
+                        "height": 182,
+                        "width": 190,
+                        "legacy": {},
+                        "subType": "articleInline",
+                        "crop_name": "articleInline"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "sfSpan",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2007/11/19/sports/19carr.395.1.jpg",
+                        "height": 220,
+                        "width": 395,
+                        "legacy": {},
+                        "subType": "sfSpan",
+                        "crop_name": "sfSpan"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "thumbnail",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2007/11/19/sports/19college.751.jpg",
+                        "height": 75,
+                        "width": 75,
+                        "legacy": {
+                            "thumbnail": "images/2007/11/19/sports/19college.751.jpg",
+                            "thumbnailwidth": 75,
+                            "thumbnailheight": 75
+                        },
+                        "subType": "thumbnail",
+                        "crop_name": "thumbStandard"
+                    }
+                ],
+                "headline": {
+                    "main": "Carr to Retire From Michigan",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Carr to Retire From Michigan, Putting Miles in Tough Spot",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Football",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Carr, Lloyd",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "College Athletics",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "University of Michigan",
+                        "rank": 4,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2007-11-19T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "Sports",
+                "section_name": "Sports",
+                "subsection_name": "College Football",
+                "byline": {
+                    "original": "By Pete Thamel",
+                    "person": [
+                        {
+                            "firstname": "Pete",
+                            "middlename": null,
+                            "lastname": "Thamel",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/3f93ffa9-63d7-5ef2-8e14-4457e00baafb",
+                "word_count": 1088,
+                "uri": "nyt://article/3f93ffa9-63d7-5ef2-8e14-4457e00baafb"
+            },
+            {
+                "abstract": "Durable Dick Carr, Columbia quarterback, will have a chance to set another record in the final game of the season when the Lions meet Rutgers at Baker Field tomorrow.  ",
+                "web_url": "https://www.nytimes.com/1953/11/20/archives/carr-eyes-9th-60minute-game-for-columbia-against-rutgers.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_section": "SPORTS",
+                "print_page": "31",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Carr Eyes 9th 60-Minute Game For Columbia Against Rutgers",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "Carr Eyes 9th 60-Minute Game For Columbia Against Rutgers",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1953-11-20T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": "By Lincoln A. Werden",
+                    "person": [
+                        {
+                            "firstname": "Lincoln",
+                            "middlename": "A.",
+                            "lastname": "Werden",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/2ffb3ce1-465c-51ed-b12e-0ba0605433ea",
+                "word_count": 0,
+                "uri": "nyt://article/2ffb3ce1-465c-51ed-b12e-0ba0605433ea"
+            },
+            {
+                "abstract": "ANN ARBOR, Michigan — In the chilly parking lot outside Schembechler Hall on Sunday night, reporters hovered around Lloyd Carr's silver Lexus sport utility vehicle.",
+                "web_url": "https://www.nytimes.com/2007/11/19/sports/19iht-fcollnotes19.8393103.html",
+                "snippet": "",
+                "lead_paragraph": "ANN ARBOR, Michigan — In the chilly parking lot outside Schembechler Hall on Sunday night, reporters hovered around Lloyd Carr's silver Lexus sport utility vehicle.",
+                "source": "International Herald Tribune",
+                "multimedia": [],
+                "headline": {
+                    "main": "Notebook: Lloyd Carr to retire from Michigan",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Notebook: Lloyd Carr to retire from Michigan",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2007-11-19T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "IHT News",
+                "section_name": "Sports",
+                "byline": {
+                    "original": "By PETE THAMEL",
+                    "person": [
+                        {
+                            "firstname": "Pete",
+                            "middlename": null,
+                            "lastname": "THAMEL",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/52d3bc49-1799-581e-8fe4-bea77ef9d036",
+                "word_count": 1044,
+                "uri": "nyt://article/52d3bc49-1799-581e-8fe4-bea77ef9d036"
+            }
+        ],
+        "meta": {
+            "hits": 1449,
+            "offset": 0,
+            "time": 66
+        }
+    }
+}

@@ -1,0 +1,856 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "1. THE DA VINCI CODE, by Dan Brown 2. DARK DEMON, by Christine Feehan 3. NO PLACE LIKE HOME, by Mary Higgins Clark 4. COUNTDOWN, by Iris Johansen 5. TIME AND AGAIN, by Nora Roberts",
+                "web_url": "https://www.nytimes.com/2006/04/16/books/bestseller/paperback-fiction.html",
+                "snippet": "1. THE DA VINCI CODE, by Dan Brown 2. DARK DEMON, by Christine Feehan 3. NO PLACE LIKE HOME, by Mary Higgins Clark 4. COUNTDOWN, by Iris Johansen 5. TIME AND AGAIN, by Nora Roberts",
+                "lead_paragraph": "",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Paperback Fiction",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Paperback Fiction",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2006-04-16T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "Books / Best-Seller Lists",
+                "section_name": "Archives",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "Results Listing",
+                "_id": "nyt://article/12a4a9f3-f6b3-539b-875f-4469ab8b1137",
+                "word_count": 17,
+                "uri": "nyt://article/12a4a9f3-f6b3-539b-875f-4469ab8b1137"
+            },
+            {
+                "abstract": "Christine Feehan, whose paranormal romance novel “Dark Wolf” is No. 3 on the hardcover fiction list, wrote her first steamy love scene during a middle school math class.",
+                "web_url": "https://www.nytimes.com/2014/01/26/books/review/inside-the-list.html",
+                "snippet": "Christine Feehan, whose paranormal romance novel “Dark Wolf” is No. 3 on the hardcover fiction list, wrote her first steamy love scene during a middle school math class.",
+                "lead_paragraph": "In the Mood: Christine Feehan’s new ­novel, “Dark Wolf,” enters the hardcover fiction list at No. 3. It’s the 25th book in her “Dark” series of paranormal romances, about a race of shape-shifters called the Carpathians — basically, kindhearted vampires who refuse to kill humans and often have energetic, soul-trembling sex with them. Feehan discovered her calling while she was still in middle school; speaking with the romance website RBL Romantica early in her career, she remembered sitting in math class and working on her first steamy love scene until the teacher confiscated her notebook. “You should have seen his face,” she said. “I was about 13 at the time. I don’t know which of us was more mortified.” But despite her early start she delayed publishing for a long time, working more than 20 years as a martial arts instructor (she has a third-degree black belt in karate) and writing for herself while she and her husband raised 11 children. “I can write with the entire household around me most of the time,” she told another website in 2002. “My husband reads all my books and had better love them — and if he doesn’t, he’d better lie like crazy with a smile on his face. The only thing I avoid while writing a love scene is my children. Children and writing love scenes don’t mix; they get you out of the mood very, very fast.”",
+                "print_section": "BR",
+                "print_page": "26",
+                "source": "The New York Times",
+                "multimedia": [
+                    {
+                        "rank": 0,
+                        "subtype": "wide",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-thumbWide-v2.jpg",
+                        "height": 126,
+                        "width": 190,
+                        "legacy": {
+                            "widewidth": 190,
+                            "wideheight": 126,
+                            "wide": "images/2014/01/19/books/review/19feehan/19feehan-thumbWide-v2.jpg"
+                        },
+                        "subType": "wide",
+                        "crop_name": "thumbWide"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoThumb",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-videoThumb-v2.jpg",
+                        "height": 50,
+                        "width": 75,
+                        "legacy": {},
+                        "subType": "videoThumb",
+                        "crop_name": "videoThumb"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo210",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-mediumThreeByTwo210-v2.jpg",
+                        "height": 140,
+                        "width": 210,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo210",
+                        "crop_name": "mediumThreeByTwo210"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumThreeByTwo225",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-mediumThreeByTwo225-v2.jpg",
+                        "height": 150,
+                        "width": 225,
+                        "legacy": {},
+                        "subType": "mediumThreeByTwo225",
+                        "crop_name": "mediumThreeByTwo225"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "miniMoth",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-miniMoth-v2.jpg",
+                        "height": 70,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "miniMoth",
+                        "crop_name": "miniMoth"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog427",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-blog427.jpg",
+                        "height": 421,
+                        "width": 427,
+                        "legacy": {},
+                        "subType": "blog427",
+                        "crop_name": "blog427"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "jumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-jumbo-v2.jpg",
+                        "height": 450,
+                        "width": 456,
+                        "legacy": {},
+                        "subType": "jumbo",
+                        "crop_name": "jumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blog225",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-blog225-v2.jpg",
+                        "height": 222,
+                        "width": 225,
+                        "legacy": {},
+                        "subType": "blog225",
+                        "crop_name": "blog225"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "master180",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-master180-v2.jpg",
+                        "height": 178,
+                        "width": 180,
+                        "legacy": {},
+                        "subType": "master180",
+                        "crop_name": "master180"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "popup",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-popup-v2.jpg",
+                        "height": 450,
+                        "width": 456,
+                        "legacy": {},
+                        "subType": "popup",
+                        "crop_name": "popup"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "tmagSF",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-tmagSF.jpg",
+                        "height": 357,
+                        "width": 362,
+                        "legacy": {},
+                        "subType": "tmagSF",
+                        "crop_name": "tmagSF"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "slide",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-slide-v2.jpg",
+                        "height": 450,
+                        "width": 456,
+                        "legacy": {},
+                        "subType": "slide",
+                        "crop_name": "slide"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "superJumbo",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-superJumbo-v2.jpg",
+                        "height": 450,
+                        "width": 456,
+                        "legacy": {},
+                        "subType": "superJumbo",
+                        "crop_name": "superJumbo"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "square320",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-square320.jpg",
+                        "height": 320,
+                        "width": 320,
+                        "legacy": {},
+                        "subType": "square320",
+                        "crop_name": "square320"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "filmstrip",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-filmstrip-v2.jpg",
+                        "height": 190,
+                        "width": 190,
+                        "legacy": {},
+                        "subType": "filmstrip",
+                        "crop_name": "filmstrip"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "moth",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-moth-v2.jpg",
+                        "height": 151,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "moth",
+                        "crop_name": "moth"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumSquare149",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-mediumSquare149-v2.jpg",
+                        "height": 149,
+                        "width": 149,
+                        "legacy": {},
+                        "subType": "mediumSquare149",
+                        "crop_name": "mediumSquare149"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "articleInline",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-articleInline-v2.jpg",
+                        "height": 187,
+                        "width": 190,
+                        "legacy": {},
+                        "subType": "articleInline",
+                        "crop_name": "articleInline"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "hpSmall",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-hpSmall-v2.jpg",
+                        "height": 161,
+                        "width": 163,
+                        "legacy": {},
+                        "subType": "hpSmall",
+                        "crop_name": "hpSmall"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blogSmallInline",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-blogSmallInline-v2.jpg",
+                        "height": 149,
+                        "width": 151,
+                        "legacy": {},
+                        "subType": "blogSmallInline",
+                        "crop_name": "blogSmallInline"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "mediumFlexible177",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-mediumFlexible177-v2.jpg",
+                        "height": 175,
+                        "width": 177,
+                        "legacy": {},
+                        "subType": "mediumFlexible177",
+                        "crop_name": "mediumFlexible177"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "sfSpan",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-sfSpan.jpg",
+                        "height": 263,
+                        "width": 395,
+                        "legacy": {},
+                        "subType": "sfSpan",
+                        "crop_name": "sfSpan"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "largeHorizontal375",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-largeHorizontal375.jpg",
+                        "height": 250,
+                        "width": 375,
+                        "legacy": {},
+                        "subType": "largeHorizontal375",
+                        "crop_name": "largeHorizontal375"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoHpMedium",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-videoHpMedium.jpg",
+                        "height": 211,
+                        "width": 375,
+                        "legacy": {},
+                        "subType": "videoHpMedium",
+                        "crop_name": "videoHpMedium"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine390",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-videoSixteenByNine390.jpg",
+                        "height": 219,
+                        "width": 390,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine390",
+                        "crop_name": "videoSixteenByNine390"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine310",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-videoSixteenByNine310.jpg",
+                        "height": 174,
+                        "width": 310,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine310",
+                        "crop_name": "videoSixteenByNine310"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine225",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-videoSixteenByNine225-v2.jpg",
+                        "height": 126,
+                        "width": 225,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine225",
+                        "crop_name": "videoSixteenByNine225"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "videoSixteenByNine96",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-videoSixteenByNine96-v2.jpg",
+                        "height": 54,
+                        "width": 96,
+                        "legacy": {},
+                        "subType": "videoSixteenByNine96",
+                        "crop_name": "videoSixteenByNine96"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "thumbnail",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-thumbStandard-v2.jpg",
+                        "height": 75,
+                        "width": 75,
+                        "legacy": {
+                            "thumbnail": "images/2014/01/19/books/review/19feehan/19feehan-thumbStandard-v2.jpg",
+                            "thumbnailwidth": 75,
+                            "thumbnailheight": 75
+                        },
+                        "subType": "thumbnail",
+                        "crop_name": "thumbStandard"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "thumbLarge",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-thumbLarge-v2.jpg",
+                        "height": 150,
+                        "width": 150,
+                        "legacy": {},
+                        "subType": "thumbLarge",
+                        "crop_name": "thumbLarge"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "blogSmallThumb",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2014/01/19/books/review/19feehan/19feehan-blogSmallThumb-v2.jpg",
+                        "height": 50,
+                        "width": 50,
+                        "legacy": {},
+                        "subType": "blogSmallThumb",
+                        "crop_name": "blogSmallThumb"
+                    }
+                ],
+                "headline": {
+                    "main": "Inside the List",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Inside the List",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Books and Literature",
+                        "rank": 1,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2014-01-17T16:26:17+0000",
+                "document_type": "article",
+                "news_desk": "BookReview",
+                "section_name": "Books",
+                "subsection_name": "Book Review",
+                "byline": {
+                    "original": "By Gregory Cowles",
+                    "person": [
+                        {
+                            "firstname": "Gregory",
+                            "middlename": null,
+                            "lastname": "Cowles",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/b595e470-efa1-5324-a166-7dcc9495fc2b",
+                "word_count": 509,
+                "uri": "nyt://article/b595e470-efa1-5324-a166-7dcc9495fc2b"
+            },
+            {
+                "abstract": "1. ANATHEM, by Neal Stephenson<br /> 2. THE BOOK OF LIES, by Brad Meltzer<br /> 3. THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY, by Mary Ann Shaffer and Annie Barrows<br /> 4. AMERICAN WIFE, by Curtis Sittenfeld<br /> 5. DARK CURSE, by Christine Feehan",
+                "web_url": "https://www.nytimes.com/2008/09/28/books/bestseller/besthardfiction.html",
+                "snippet": "1. ANATHEM, by Neal Stephenson<br /> 2. THE BOOK OF LIES, by Brad Meltzer<br /> 3. THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY, by Mary Ann Shaffer and Annie Barrows<br /> 4. AMERICAN WIFE, by Curtis Sittenfeld<br /> 5. DARK CURSE, by Christ...",
+                "lead_paragraph": "",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Hardcover Fiction",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Hardcover Fiction",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Books and Literature",
+                        "rank": 1,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2008-09-26T13:13:55+0000",
+                "document_type": "article",
+                "news_desk": "BookReview",
+                "section_name": "Books",
+                "subsection_name": "Best Sellers",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "List",
+                "_id": "nyt://article/48e503ec-bc0d-5476-827d-658466556e5a",
+                "word_count": 724,
+                "uri": "nyt://article/48e503ec-bc0d-5476-827d-658466556e5a"
+            },
+            {
+                "abstract": "1. PLAYING FOR PIZZA, by John Grisham<br /> 2. YOU’VE BEEN WARNED, by James Patterson and Howard Roughan<br /> 3. TURBULENT SEA, by Christine Feehan<br /> 4. INTO THE FLAME, by Christina Dodd<br /> 5. LEFT TO DIE, by Lisa Jackson",
+                "web_url": "https://www.nytimes.com/2008/08/24/books/bestseller/bestpapermassfiction.html",
+                "snippet": "1. PLAYING FOR PIZZA, by John Grisham<br /> 2. YOU’VE BEEN WARNED, by James Patterson and Howard Roughan<br /> 3. TURBULENT SEA, by Christine Feehan<br /> 4. INTO THE FLAME, by Christina Dodd<br /> 5. LEFT TO DIE, by Lisa Jackson",
+                "lead_paragraph": "",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Paperback Mass-Market Fiction",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Paperback Mass-Market Fiction",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Books and Literature",
+                        "rank": 1,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2008-08-24T04:00:00+0000",
+                "document_type": "article",
+                "news_desk": "BookReview",
+                "section_name": "Books",
+                "subsection_name": "Best Sellers",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "List",
+                "_id": "nyt://article/a6d9c87c-f59b-54fd-b2f3-3baaeb2ee8f5",
+                "word_count": 814,
+                "uri": "nyt://article/a6d9c87c-f59b-54fd-b2f3-3baaeb2ee8f5"
+            },
+            {
+                "abstract": "1. DARK CURSE, by Christine Feehan<br /> 2. THE BOOK OF LIES, by Brad Meltzer<br /> 3. AMERICAN WIFE, by Curtis Sittenfeld<br /> 4. DEVIL BONES, by Kathy Reichs<br /> 5. THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY, by Mary Ann Shaffer and Annie Barrows",
+                "web_url": "https://www.nytimes.com/2008/09/21/books/bestseller/besthardfiction.html",
+                "snippet": "1. DARK CURSE, by Christine Feehan<br /> 2. THE BOOK OF LIES, by Brad Meltzer<br /> 3. AMERICAN WIFE, by Curtis Sittenfeld<br /> 4. DEVIL BONES, by Kathy Reichs<br /> 5. THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY, by Mary Ann Shaffer and An...",
+                "lead_paragraph": "",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Hardcover Fiction",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Hardcover Fiction",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Books and Literature",
+                        "rank": 1,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2008-09-21T04:00:00+0000",
+                "document_type": "article",
+                "news_desk": "BookReview",
+                "section_name": "Books",
+                "subsection_name": "Best Sellers",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "List",
+                "_id": "nyt://article/4c8cc777-d670-54eb-9abf-85da0b349c68",
+                "word_count": 771,
+                "uri": "nyt://article/4c8cc777-d670-54eb-9abf-85da0b349c68"
+            },
+            {
+                "abstract": "1. PLAYING FOR PIZZA, by John Grisham<br /> 2. TURBULENT SEA, by Christine Feehan<br /> 3. PLAY DIRTY, by Sandra Brown<br /> 4. CRY WOLF, by Patricia Briggs<br /> 5. THE MANNING BRIDES, by Debbie Macomber",
+                "web_url": "https://www.nytimes.com/2008/08/17/books/bestseller/bestpapermassfiction.html",
+                "snippet": "1. PLAYING FOR PIZZA, by John Grisham<br /> 2. TURBULENT SEA, by Christine Feehan<br /> 3. PLAY DIRTY, by Sandra Brown<br /> 4. CRY WOLF, by Patricia Briggs<br /> 5. THE MANNING BRIDES, by Debbie Macomber",
+                "lead_paragraph": "",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Paperback Mass-Market Fiction",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Paperback Mass-Market Fiction",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Books and Literature",
+                        "rank": 1,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2008-08-17T04:00:00+0000",
+                "document_type": "article",
+                "news_desk": "BookReview",
+                "section_name": "Books",
+                "subsection_name": "Best Sellers",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "List",
+                "_id": "nyt://article/b51b04fb-9681-5e8f-95d9-acbf523a2dc7",
+                "word_count": 848,
+                "uri": "nyt://article/b51b04fb-9681-5e8f-95d9-acbf523a2dc7"
+            },
+            {
+                "abstract": "E. L. Doctorow is a bit of an old reliable on the hardcover fiction list.",
+                "web_url": "https://www.nytimes.com/2009/09/20/books/review/InsideList-t.html",
+                "snippet": "E. L. Doctorow is a bit of an old reliable on the hardcover fiction list.",
+                "lead_paragraph": " WHEN BOOKS ATTACK: E. L. Doctorow’s “Homer & Langley” enters the hardcover fiction list at No. 7 this week. Doctorow is a bit of an old reliable. “Ragtime” (1975), his fourth novel, spent 39 weeks on the list, 13 of them at No. 1, and his seven subsequent novels have all made the list as well. His last book, “The March” (2005), had a seven-week run.",
+                "print_section": "BR",
+                "print_page": "18",
+                "source": "The New York Times",
+                "multimedia": [
+                    {
+                        "rank": 0,
+                        "subtype": "articleInline",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2009/09/20/books/tbr-190.jpg",
+                        "height": 190,
+                        "width": 190,
+                        "legacy": {},
+                        "subType": "articleInline",
+                        "crop_name": "articleInline"
+                    },
+                    {
+                        "rank": 0,
+                        "subtype": "thumbnail",
+                        "caption": null,
+                        "credit": null,
+                        "type": "image",
+                        "url": "images/2009/09/20/books/tbr-75.jpg",
+                        "height": 75,
+                        "width": 75,
+                        "legacy": {
+                            "thumbnail": "images/2009/09/20/books/tbr-75.jpg",
+                            "thumbnailwidth": 75,
+                            "thumbnailheight": 75
+                        },
+                        "subType": "thumbnail",
+                        "crop_name": "thumbStandard"
+                    }
+                ],
+                "headline": {
+                    "main": "Inside the List",
+                    "kicker": "TBR",
+                    "content_kicker": null,
+                    "print_headline": "Inside the List",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Books and Literature",
+                        "rank": 1,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2009-09-10T17:15:56+0000",
+                "document_type": "article",
+                "news_desk": "BookReview",
+                "section_name": "Books",
+                "subsection_name": "Book Review",
+                "byline": {
+                    "original": "By Jennifer Schuessler",
+                    "person": [
+                        {
+                            "firstname": "Jennifer",
+                            "middlename": null,
+                            "lastname": "Schuessler",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "News",
+                "_id": "nyt://article/7a991e6f-7d81-5fb7-ad9e-94ab548dde86",
+                "word_count": 501,
+                "uri": "nyt://article/7a991e6f-7d81-5fb7-ad9e-94ab548dde86"
+            },
+            {
+                "abstract": "This",
+                "web_url": "https://www.nytimes.com/2001/09/02/books/bestseller/paperback-fiction-2001090290372611593.html",
+                "snippet": "This",
+                "lead_paragraph": " This ",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Paperback Fiction",
+                    "kicker": "COMPARE BEST-SELLER LISTS",
+                    "content_kicker": null,
+                    "print_headline": "Paperback Fiction",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "2001-09-02T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "Books",
+                "section_name": "Books",
+                "byline": {
+                    "original": "By",
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "Results Listing",
+                "_id": "nyt://article/6dc1e785-8966-592a-8b8c-10dabf6ba6f5",
+                "word_count": 493,
+                "uri": "nyt://article/6dc1e785-8966-592a-8b8c-10dabf6ba6f5"
+            },
+            {
+                "abstract": "1. MR. CAVENDISH, I PRESUME, by Julia Quinn<br /> 2. DOUBLE CROSS, by James Patterson<br /> SEDUCE ME AT SUNRISE, by Lisa Kleypas<br /> 4. NIGHTS IN RODANTHE, by Nicholas Sparks<br /> 5. COLLATERAL DAMAGE, by Fern Michaels",
+                "web_url": "https://www.nytimes.com/2008/10/19/books/bestseller/bestpapermassfiction.html",
+                "snippet": "1. MR. CAVENDISH, I PRESUME, by Julia Quinn<br /> 2. DOUBLE CROSS, by James Patterson<br /> SEDUCE ME AT SUNRISE, by Lisa Kleypas<br /> 4. NIGHTS IN RODANTHE, by Nicholas Sparks<br /> 5. COLLATERAL DAMAGE, by Fern Michaels",
+                "lead_paragraph": "",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Paperback Mass-Market Fiction",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Paperback Mass-Market Fiction",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Books and Literature",
+                        "rank": 1,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2008-10-10T16:59:39+0000",
+                "document_type": "article",
+                "news_desk": "BookReview",
+                "section_name": "Books",
+                "subsection_name": "Best Sellers",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "List",
+                "_id": "nyt://article/f223cc2a-65f0-57f2-afb8-2b53d4ae9a23",
+                "word_count": 805,
+                "uri": "nyt://article/f223cc2a-65f0-57f2-afb8-2b53d4ae9a23"
+            },
+            {
+                "abstract": "1. THE STORY OF EDGAR SAWTELLE, by David Wroblewski<br /> 2. HEAT LIGHTNING, by John Sandford<br /> 3. THE GIVEN DAY, by Dennis Lehane<br /> 4. HOT MAHOGANY, by Stuart Woods<br /> 5. ONE FIFTH AVENUE, by Candace Bushnell",
+                "web_url": "https://www.nytimes.com/2008/10/12/books/bestseller/besthardfiction.html",
+                "snippet": "1. THE STORY OF EDGAR SAWTELLE, by David Wroblewski<br /> 2. HEAT LIGHTNING, by John Sandford<br /> 3. THE GIVEN DAY, by Dennis Lehane<br /> 4. HOT MAHOGANY, by Stuart Woods<br /> 5. ONE FIFTH AVENUE, by Candace Bushnell",
+                "lead_paragraph": "",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Hardcover Fiction",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Hardcover Fiction",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Books and Literature",
+                        "rank": 1,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2008-10-03T17:57:27+0000",
+                "document_type": "article",
+                "news_desk": "BookReview",
+                "section_name": "Books",
+                "subsection_name": "Best Sellers",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "List",
+                "_id": "nyt://article/f74b20d6-fc49-5897-a44a-f7b88f337f79",
+                "word_count": 751,
+                "uri": "nyt://article/f74b20d6-fc49-5897-a44a-f7b88f337f79"
+            }
+        ],
+        "meta": {
+            "hits": 65,
+            "offset": 0,
+            "time": 46
+        }
+    }
+}

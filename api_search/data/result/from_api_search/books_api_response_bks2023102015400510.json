@@ -1,0 +1,419 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "",
+                "web_url": "https://www.nytimes.com/1968/03/31/archives/miss-susan-lawrence-emley-bride-of-h-a-luebbermann-jr.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_page": "89",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Miss Susan Lawrence Emley Bride of H. A. Luebbermann Jr.",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "Miss Susan Lawrence Emley Bride of H. A. Luebbermann Jr.",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1968-03-31T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": "Special to The New York Times",
+                    "person": [
+                        {
+                            "firstname": null,
+                            "middlename": null,
+                            "lastname": null,
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/ecb82bef-1faf-5e25-8052-7d8b9ccaf9be",
+                "word_count": 0,
+                "uri": "nyt://article/ecb82bef-1faf-5e25-8052-7d8b9ccaf9be"
+            },
+            {
+                "abstract": "CHATHAM, N.J., Aug. 12-- Miss Kathleen Elizabeth Hamilton, daughter of Mr. and Mrs. James Hamilton, was married today to John Douglas Angleman, son of Mr. and Mrs. Douglas Mowbray Angleman of Chatham and Ashfield, Mass.  ",
+                "web_url": "https://www.nytimes.com/1967/08/13/archives/8-are-attendants-of-miss-hamilton-at-her-marriage.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_page": "72",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "8 Are Attendants Of Miss Hamilton At Her Marriage",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "8 Are Attendants Of Miss Hamilton At Her Marriage",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1967-08-13T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": "Special to The New York TimesSullck",
+                    "person": [
+                        {
+                            "firstname": null,
+                            "middlename": null,
+                            "lastname": null,
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/eb1f4864-663c-56f6-8717-2b7a5be4a102",
+                "word_count": 0,
+                "uri": "nyt://article/eb1f4864-663c-56f6-8717-2b7a5be4a102"
+            },
+            {
+                "abstract": "",
+                "web_url": "https://www.nytimes.com/1951/03/06/archives/miss-ann-d-webster-to-be-bride-april-21.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_page": "24",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "MISS ANN D. WEBSTER TO BE BRIDE APRIL 21",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "MISS ANN D. WEBSTER TO BE BRIDE APRIL 21",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1951-03-06T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": "Special to THE NEW YORK TIMES",
+                    "person": [
+                        {
+                            "firstname": null,
+                            "middlename": null,
+                            "lastname": null,
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/880602ca-b86b-5686-aecb-e3e90c01f7a9",
+                "word_count": 0,
+                "uri": "nyt://article/880602ca-b86b-5686-aecb-e3e90c01f7a9"
+            },
+            {
+                "abstract": "Weds E Law",
+                "web_url": "https://www.nytimes.com/1928/12/30/archives/consuelo-godfrey-engaged-to-wed-her-troth-to-lieut-john-f-crowe-usn.html",
+                "snippet": "Weds E Law",
+                "lead_paragraph": "",
+                "print_page": "16",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "CONSUELO GODFREY ENGAGED TO WED; Her Troth to Lieut. John F. Crowe, U.S.N., Is Announced by Her Parents.EMILY D. LORD BETROTHEDChicago Girl to Marry Russell LeePost of Hartford, Conn.-- Other Engagements. Lord--Post. White--Corrigan. Stevenson--Richey. Earle--Hazlitt Neuwirth--Cowen. Morchand--Markowitz. Calt--Carroll. Warnstadt--Jacobs. Krauss--Fleischmann. Wood--Haselton. Babcock--Nash. Mallery--Larabee. Lane--Evans. Harrison--Frames.",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "CONSUELO GODFREY ENGAGED TO WED; Her Troth to Lieut. John F. Crowe, U.S.N., Is Announced by Her Parents.EMILY D. LORD BETROTHEDChicago Girl to Marry Russell LeePost of Hartford, Conn.-- Other Engagements. Lord--Post. White--Corrigan. Stevenson--Richey. Earle--Hazlitt Neuwirth--Cowen. Morchand--Markowitz. Calt--Carroll. Warnstadt--Jacobs. Krauss--Fleischmann. Wood--Haselton. Babcock--Nash. Mallery--Larabee. Lane--Evans. Harrison--Frames.",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "persons",
+                        "value": "JANS, HARRY",
+                        "rank": 1,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "1928-12-30T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/e8197477-2b4a-58db-9d43-11ebdc73cc18",
+                "word_count": 0,
+                "uri": "nyt://article/e8197477-2b4a-58db-9d43-11ebdc73cc18"
+            },
+            {
+                "abstract": "",
+                "web_url": "https://www.nytimes.com/1939/09/04/archives/list-of-the-american-passengers-aboard-the-torpedoed-athenia.html",
+                "snippet": "",
+                "lead_paragraph": "",
+                "print_page": "1",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "List of the American Passengers Aboard the Torpedoed Athenia",
+                    "kicker": "1",
+                    "content_kicker": null,
+                    "print_headline": "List of the American Passengers Aboard the Torpedoed Athenia",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [],
+                "pub_date": "1939-09-04T05:00:00+0000",
+                "document_type": "article",
+                "news_desk": "None",
+                "section_name": "Archives",
+                "byline": {
+                    "original": "Special to THE NEW YORK TIMES",
+                    "person": [
+                        {
+                            "firstname": null,
+                            "middlename": null,
+                            "lastname": null,
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Archives",
+                "_id": "nyt://article/a753a651-3124-5fb3-b21c-9e1d7526b275",
+                "word_count": 0,
+                "uri": "nyt://article/a753a651-3124-5fb3-b21c-9e1d7526b275"
+            },
+            {
+                "abstract": "1. PLAYING FOR PIZZA, by John Grisham<br /> 2. PLAY DIRTY, by Sandra Brown<br /> 3. STEP ON A CRACK, by James Patterson and Michael Ledwidge<br /> 4. DOUBLE TAKE, by Catherine Coulter<br /> 5. NEVER ROMANCE A RAKE, by Liz Carlyle",
+                "web_url": "https://www.nytimes.com/2008/08/10/books/bestseller/0810bestpapermassfiction.html",
+                "snippet": "1. PLAYING FOR PIZZA, by John Grisham<br /> 2. PLAY DIRTY, by Sandra Brown<br /> 3. STEP ON A CRACK, by James Patterson and Michael Ledwidge<br /> 4. DOUBLE TAKE, by Catherine Coulter<br /> 5. NEVER ROMANCE A RAKE, by Liz Carlyle",
+                "lead_paragraph": "",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Paperback Mass-Market Fiction",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Books and Literature",
+                        "rank": 1,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2008-08-10T04:00:00+0000",
+                "document_type": "article",
+                "news_desk": "BookReview",
+                "section_name": "Books",
+                "subsection_name": "Best Sellers",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "List",
+                "_id": "nyt://article/0ef8781f-3478-5473-98c6-e20de5e9f7ce",
+                "word_count": 773,
+                "uri": "nyt://article/0ef8781f-3478-5473-98c6-e20de5e9f7ce"
+            },
+            {
+                "abstract": "1. PLAYING FOR PIZZA, by John Grisham<br /> 2. YOU’VE BEEN WARNED, by James Patterson and Howard Roughan<br /> 3. NIGHTS IN RODANTHE, by Nicholas Sparks<br /> 4. THE BOOK OF SCANDAL, by Julia London<br /> 5. PLAY DIRTY, by Sandra Brown",
+                "web_url": "https://www.nytimes.com/2008/09/07/books/bestseller/bestpapermassfiction.html",
+                "snippet": "1. PLAYING FOR PIZZA, by John Grisham<br /> 2. YOU’VE BEEN WARNED, by James Patterson and Howard Roughan<br /> 3. NIGHTS IN RODANTHE, by Nicholas Sparks<br /> 4. THE BOOK OF SCANDAL, by Julia London<br /> 5. PLAY DIRTY, by Sandra Brown",
+                "lead_paragraph": "",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Paperback Mass-Market Fiction",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Paperback Mass-Market Fiction",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Books and Literature",
+                        "rank": 1,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2008-09-07T04:00:00+0000",
+                "document_type": "article",
+                "news_desk": "BookReview",
+                "section_name": "Books",
+                "subsection_name": "Best Sellers",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "List",
+                "_id": "nyt://article/236bdba4-c568-5d7f-ade1-10326f6f6b4a",
+                "word_count": 798,
+                "uri": "nyt://article/236bdba4-c568-5d7f-ade1-10326f6f6b4a"
+            },
+            {
+                "abstract": "1. PLAYING FOR PIZZA, by John Grisham<br /> 2. YOU’VE BEEN WARNED, by James Patterson and Howard Roughan<br /> 3. TURBULENT SEA, by Christine Feehan<br /> 4. INTO THE FLAME, by Christina Dodd<br /> 5. LEFT TO DIE, by Lisa Jackson",
+                "web_url": "https://www.nytimes.com/2008/08/24/books/bestseller/bestpapermassfiction.html",
+                "snippet": "1. PLAYING FOR PIZZA, by John Grisham<br /> 2. YOU’VE BEEN WARNED, by James Patterson and Howard Roughan<br /> 3. TURBULENT SEA, by Christine Feehan<br /> 4. INTO THE FLAME, by Christina Dodd<br /> 5. LEFT TO DIE, by Lisa Jackson",
+                "lead_paragraph": "",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Paperback Mass-Market Fiction",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Paperback Mass-Market Fiction",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Books and Literature",
+                        "rank": 1,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2008-08-24T04:00:00+0000",
+                "document_type": "article",
+                "news_desk": "BookReview",
+                "section_name": "Books",
+                "subsection_name": "Best Sellers",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "List",
+                "_id": "nyt://article/a6d9c87c-f59b-54fd-b2f3-3baaeb2ee8f5",
+                "word_count": 814,
+                "uri": "nyt://article/a6d9c87c-f59b-54fd-b2f3-3baaeb2ee8f5"
+            },
+            {
+                "abstract": "1. PLAYING FOR PIZZA, by John Grisham<br /> 2. TURBULENT SEA, by Christine Feehan<br /> 3. PLAY DIRTY, by Sandra Brown<br /> 4. CRY WOLF, by Patricia Briggs<br /> 5. THE MANNING BRIDES, by Debbie Macomber",
+                "web_url": "https://www.nytimes.com/2008/08/17/books/bestseller/bestpapermassfiction.html",
+                "snippet": "1. PLAYING FOR PIZZA, by John Grisham<br /> 2. TURBULENT SEA, by Christine Feehan<br /> 3. PLAY DIRTY, by Sandra Brown<br /> 4. CRY WOLF, by Patricia Briggs<br /> 5. THE MANNING BRIDES, by Debbie Macomber",
+                "lead_paragraph": "",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Paperback Mass-Market Fiction",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Paperback Mass-Market Fiction",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Books and Literature",
+                        "rank": 1,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2008-08-17T04:00:00+0000",
+                "document_type": "article",
+                "news_desk": "BookReview",
+                "section_name": "Books",
+                "subsection_name": "Best Sellers",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "List",
+                "_id": "nyt://article/b51b04fb-9681-5e8f-95d9-acbf523a2dc7",
+                "word_count": 848,
+                "uri": "nyt://article/b51b04fb-9681-5e8f-95d9-acbf523a2dc7"
+            },
+            {
+                "abstract": "1. PLAYING FOR PIZZA, by John Grisham<br /> 2. YOU’VE BEEN WARNED, by James Patterson and Howard Roughan<br /> 3. NIGHTS IN RODANTHE, by Nicholas Sparks<br /> 4. INTO THE FLAME, by Christina Dodd<br /> 5. PLAY DIRTY, by Sandra Brown",
+                "web_url": "https://www.nytimes.com/2008/08/31/books/bestseller/bestpapermassfiction.html",
+                "snippet": "1. PLAYING FOR PIZZA, by John Grisham<br /> 2. YOU’VE BEEN WARNED, by James Patterson and Howard Roughan<br /> 3. NIGHTS IN RODANTHE, by Nicholas Sparks<br /> 4. INTO THE FLAME, by Christina Dodd<br /> 5. PLAY DIRTY, by Sandra Brown",
+                "lead_paragraph": "",
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Paperback Mass-Market Fiction",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Paperback Mass-Market Fiction",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Books and Literature",
+                        "rank": 1,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2008-08-31T04:00:00+0000",
+                "document_type": "article",
+                "news_desk": "BookReview",
+                "section_name": "Books",
+                "subsection_name": "Best Sellers",
+                "byline": {
+                    "original": null,
+                    "person": [],
+                    "organization": null
+                },
+                "type_of_material": "List",
+                "_id": "nyt://article/e3c19408-63a7-5df2-aab4-225a413884c3",
+                "word_count": 827,
+                "uri": "nyt://article/e3c19408-63a7-5df2-aab4-225a413884c3"
+            }
+        ],
+        "meta": {
+            "hits": 61,
+            "offset": 0,
+            "time": 58
+        }
+    }
+}
